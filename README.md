@@ -31,21 +31,21 @@ Experienced QA professional with 7+ years building robust quality assurance stra
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period |
 |------|---------|--------|
-| QA Manager | Webpoint Solutions, LLC | Apr 2025 – Present |
-| QA Manager | Vee Inc | Apr 2024 – Apr 2025 |
+| QA Lead | Webpoint Solutions, LLC | Jan 2026 – Present |
+| QA Manager | Vee Inc | Apr 2025 – Aug 2025 |
 | QA Instructor | Training Point | Jul 2024 – Apr 2025 |
 | QA Instructor | Kingsway Academy | Apr 2024 – Apr 2025 |
-| Lead QA Engineer | Webpoint Solutions, LLC | Jan 2024 – Apr 2024 |
+| Lead QA Engineer | Webpoint Solutions, LLC | Jan 2024 – Apr 2025 |
 | QA Engineer | Aricalot Technology | Apr 2021 – Jan 2024 |
 | React Developer & QA | Origamy Technology | Jul 2020 – Mar 2021 |
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
 **Pacesetter Tax** — SaaS taxation platform serving thousands of US users. Led QA for payment integrations (Stripe, ACH, Authorize.net, Nexio), QuickBooks integration, and peak-season load testing.
 
